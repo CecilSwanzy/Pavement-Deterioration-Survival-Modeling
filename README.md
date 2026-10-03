@@ -82,3 +82,9 @@ git clone https://github.com/CecilSwanzy/pavement-deterioration-survival-modelin
 # 2. Place data files (nacka.xlsx, ostersund.xlsx) in working directory
 # 3. Run:
 source("thesis_analysis.R")
+
+
+Connect with Me
+LinkedIn: www.linkedin.com/in/cecil-swanzy-191a60171
+
+Email: mcskanty@gmail.com
