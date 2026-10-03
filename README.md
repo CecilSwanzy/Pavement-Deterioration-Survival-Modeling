@@ -73,7 +73,6 @@ pavement-deterioration-survival-modeling/
 
 ## How to Reproduce
 
-```bash
 # Clone the repository
 git clone https://github.com/CecilSwanzy/pavement-deterioration-survival-modeling.git
 
@@ -86,5 +85,5 @@ source("thesis_analysis.R")
 
 Connect with Me
 LinkedIn: www.linkedin.com/in/cecil-swanzy-191a60171
-
 Email: mcskanty@gmail.com
+
